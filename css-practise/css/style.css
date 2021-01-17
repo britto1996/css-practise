@@ -1,0 +1,40 @@
+body {
+
+    background-color: aqua;
+    text-align: center;
+}
+
+.myName {
+    width: 5%;
+    margin: 0px auto 0px auto;
+}
+
+.top-container {
+    position: relative;
+    padding-top: 100px;
+}
+
+.cloud-img1 {
+    position: relative;
+    left: 200px;
+}
+
+.cloud-img2 {
+    position: absolute;
+}
+
+.mountain-img {
+
+}
+
+.developer {
+    text-decoration: underline;
+}
+
+.middle-container {
+   
+}
+
+.bottom-container {
+    
+}
