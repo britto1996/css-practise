@@ -1,17 +1,46 @@
 body {
 
-    background-color: aqua;
+    
     text-align: center;
+    font-family: 'Merriweather',serif;
+}
+
+a {
+    color: #11999E;
+}
+
+h3,
+h2 {
+    color: #11999E;
+}
+
+p {
+    line-height: 2;
 }
 
 .myName {
-    width: 5%;
+    
     margin: 0px auto 0px auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color: #66BFBF;
+    line-height: 2;
+}
+
+.profile-img {
+    width: 25%;
+}
+
+.subtitle {
+    font-size: 1.25rem;
+    color: #66BFBF;
+    font-weight: normal;
 }
 
 .top-container {
     position: relative;
     padding-top: 100px;
+    background-color: aqua;
 }
 
 .cloud-img1 {
@@ -38,3 +67,23 @@ body {
 .bottom-container {
     
 }
+
+.skill-row {
+    width: 50%;
+    position: relative;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+
+.coder-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.chillies-img {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
